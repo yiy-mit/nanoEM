@@ -12,6 +12,13 @@ A fully-retarded electrodynamic framework using surface response functions known
 
 Incoporation of dominant nonclassical effects (nonlocality, spill-in/out, and surface-enabled Landau damping) for length scales ≥1 nm.
 
+# Examples
+
+Plane-wave scattering solutions provided for cylinders, bowtie antennas, spheres, and film-coupled nanodisks. 
+
+Can be generlized to other electromagnetic problems such as spontaneous emission, near-field scanning microscopy, electron energy loss spectroscopy, and more.
+
+
 # Citing nanoEM
 
 We kindly request that you cite the following paper in any published work for which you used our implementation here:
