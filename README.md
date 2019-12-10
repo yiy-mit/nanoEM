@@ -16,7 +16,7 @@ Incoporation of dominant nonclassical effects (nonlocality, spill-in/out, and su
 
 Plane-wave scattering solutions provided for cylinders, bowtie antennas, spheres, and film-coupled nanodisks. 
 
-Can be generlized to other electromagnetic problems such as eigenmode problems, spontaneous emission, near-field scanning microscopy, electron energy loss spectroscopy, and more.
+Can be generalized to other electromagnetic problems such as eigenmode problems, spontaneous emission, near-field scanning microscopy, electron energy loss spectroscopy, and more.
 
 
 # Citing nanoEM
