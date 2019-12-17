@@ -23,4 +23,4 @@ Can be generalized to other electromagnetic problems such as eigenmode problems,
 
 We kindly request that you cite the following paper in any published work for which you used our implementation here:
 
-Yi Yang, Di Zhu, Wei Yan, Akshay Agarwal, Mengjie Zheng, John D. Joannopoulos, Philippe Lalanne, Thomas Christensen, Karl K. Berggren, Marin Soljačić, [arXiv: 1901.03988](https://arxiv.org/abs/1901.03988).
+Yi Yang, Di Zhu, Wei Yan, Akshay Agarwal, Mengjie Zheng, John D. Joannopoulos, Philippe Lalanne, Thomas Christensen, Karl K. Berggren, Marin Soljačić, [Nature 576, 248 (2019)](https://www.nature.com/articles/s41586-019-1803-1).
